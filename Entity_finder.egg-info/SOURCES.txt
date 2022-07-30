@@ -1,0 +1,6 @@
+README.md
+setup.py
+Entity_finder.egg-info/PKG-INFO
+Entity_finder.egg-info/SOURCES.txt
+Entity_finder.egg-info/dependency_links.txt
+Entity_finder.egg-info/top_level.txt
